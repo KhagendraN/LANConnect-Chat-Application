@@ -16,7 +16,7 @@ A simple LAN-based chat application built with Python socket programming, allowi
 1. **Clone this repository**:
     ```bash
     git clone https://github.com/KhagendraN/LANConnect-Chat-Application.git
-    cd LAN-Chat-Application
+    cd LANConnect-Chat-Application
     ```
 
 2. **Run the Server**:
